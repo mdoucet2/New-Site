@@ -1,3 +1,19 @@
+Skip to content
+This repository  
+Explore
+Gist
+Blog
+Help
+@mdoucet2 mdoucet2
+ 
+ Unwatch 1
+  Star 1
+  Fork 0
+mdoucet2/New_Site
+ branch: master  New_Site/css/style.css
+@mdoucet2mdoucet2 12 days ago update style.css
+2 contributors @mdoucet2 @jcroberts1
+RawBlameHistory    803 lines (673 sloc)  15.562 kB
 @charset 'UTF-8';
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Oleo+Script:400|Open+Sans:300,300italic,600,600italic,800");
@@ -510,11 +526,14 @@
 			display: none;
 		}
 		
-		
-		
+		/*********************************************************************************/
 /* FB Icon on leo page                                                                        */
 /*********************************************************************************/
-
+body {
+  background: #222 url("http://25.media.tumblr.com/a408ad9af259cf827ed4599d60bcb0a9/tumblr_myebwtELvb1st5lhmo1_1280.jpg") no-repeat fixed center;
+  background-size: cover;
+  overflow: hidden;
+}
 
 .social {
   position: left;
@@ -565,6 +584,7 @@
   background-color: #3B5998;
   color: white;
 }
+
 
 /*********************************************************************************/
 /* Widgets                                                                       */
@@ -796,3 +816,5 @@
 		{
 			color: inherit;
 		}
+Status API Training Shop Blog About
+© 2015 GitHub, Inc. Terms Privacy Security Contact

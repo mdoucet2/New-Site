@@ -169,15 +169,7 @@
 /* Nav                                                                           */
 /*********************************************************************************/
 
-<<<<<<< HEAD
 * {
-=======
-<<<<<<< HEAD
-	* {
-=======
-* {
->>>>>>> origin/master
->>>>>>> master
  box-sizing: border-box;
 }
 
@@ -187,7 +179,6 @@ body {
 
 nav {
  background: rgba(233,233,233, 0.8);
- font-size: 2.5rem;
  margin: 3em 2rem;
  margin-top: -74px;
  margin-bottom: 50px;

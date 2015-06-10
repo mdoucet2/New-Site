@@ -50,7 +50,7 @@
 	a
 	{
 		color: #0090c5;
-		text-decoration: underline;
+		
 	}
 	
 		a:hover
@@ -725,8 +725,8 @@
 /* Wrappers                                                                      */
 /*********************************************************************************/
 
-	#banner-wrapper
-	{
+	#banner-wrapper {
+	 margin-top: -65px;
 	}
 	
 	#main-wrapper
@@ -782,9 +782,9 @@
 		margin-top: 0;
 	}
 	
-		#footer a
-		{
-			color: inherit;
+		#footer a {
+	    color: #000;
+        text-decoration: inherit;
 		}
 	
 	#copyright
@@ -794,5 +794,5 @@
 	
 		#copyright a
 		{
-			color: inherit;
+			color: #000;
 		}

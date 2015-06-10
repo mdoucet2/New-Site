@@ -809,13 +809,13 @@ pre code {
 }
 
 .row {
-<<<<<<< HEAD
+
    margin-right: 58px;
   margin-left: -63px;
-=======
+
   margin-right: 55px;
-  margin-left: -66px;
->>>>>>> master
+  margin-left: -63px;
+
 }
 
 .row:before,

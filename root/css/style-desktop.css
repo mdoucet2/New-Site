@@ -170,21 +170,12 @@
 /* Nav                                                                           */
 /*********************************************************************************/
 
-
-#nav {
-	position: absolute;
-	right: 0;
-	top: 0;
-	font-size: 0.9em;
-
-
 	#nav
 	{
 		position: absolute;
 		right: 0;
 		top: 0;
 		font-size: 0.9em;
-        
 	}
 	
 		#nav ul
